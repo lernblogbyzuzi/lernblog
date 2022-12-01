@@ -8,7 +8,7 @@ pinned = false
 
 {{<lead>}}Eine Diabetes Typ 1 Diagnose löst bei vielen Betroffenen Angst und Unsicherheit aus. Ausserdem zwingt die Krankheit sie dazu, in ihrem Alltag einschneidende Veränderungen vorzunehmen, die nicht immer einfach umzusetzen sind. So werden Essen und Sport plötzlich zu Herausforderungen.{{</lead>}}
 
-![]()
+![Zucker aus Zucker - Zuzanna Czupalla](zuckerrrr.png)
 
 {{<box title="Was ist Diabetes mellitus Typ 1?">}}Diabetes mellitus Typ 1 ist eine Autoimmunerkrankung, bei der das Immunsystem Zellen in der Bauchspeicheldrüse angreift. Diese betroffenen Zellen sind für die Herstellung von Insulin verantwortlich, welches den Zuckergehalt des Blutes reguliert, indem es Glukose aus dem Blut in die Zellen schleust. Mangelt es dem Körper an Insulin, kann der aufgenommene Zucker nicht genutzt werden und sammelt sich an, was eine Reihe von Beschwerden zur Folge hat. Diabetes Typ 1 wird typischerweise im Kindes- und Jugendalter diagnostiziert, kann aber auch erst im höheren Alter auftreten. Betroffene sind lebenslang auf Insulininjektionen angewiesen. Viele spezialisierte Schulungen, zu denen unter anderem auch Gespräche mit der Diabetesfachberatung gehören, sind essentiell für die Förderung von Gesundheit und Lebensqualität.{{</box>}}
 
