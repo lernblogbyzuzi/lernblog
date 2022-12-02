@@ -60,6 +60,8 @@ Mit einer Krankheit wie Diabetes diagnostiziert zu werden, welche ein Leben lang
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xm9deTXxoMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 Weitere World Diabetes Day 2021 Lernvideos für Kinder und Jugendliche mit Typ 1 Diabetes finden Sie [hier](http://www.kinderklinik.insel.ch/de/unser-angebot/diabetologie/kinderdiabetes-lernvideos).
 
 <!--EndFragment-->
