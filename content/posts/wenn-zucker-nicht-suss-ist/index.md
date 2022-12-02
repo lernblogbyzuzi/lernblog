@@ -3,6 +3,7 @@ title = "Wenn Zucker nicht süss ist"
 date = "2022-12-01"
 draft = false
 pinned = false
+image = "miau.jpg"
 +++
 <!--StartFragment-->
 
