@@ -3,11 +3,12 @@ title = "Wenn Zucker nicht süss ist"
 date = "2022-12-01"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage"]
 image = "miau.jpg"
 +++
 <!--StartFragment-->
 
-{{<lead>}}Eine Diabetes Typ 1 Diagnose löst bei vielen Betroffenen Angst und Unsicherheit aus. Ausserdem zwingt die Krankheit sie dazu, in ihrem Alltag einschneidende Veränderungen vorzunehmen, die nicht immer einfach umzusetzen sind. So werden Essen und Sport plötzlich zu Herausforderungen.{{</lead>}}
+{{<lead>}}Eine Diabetes Typ 1 Diagnose löst bei vielen Betroffenen Angst und Unsicherheit aus. Ausserdem zwingt die Krankheit sie dazu, in ihrem Alltag einschneidende Veränderungen vorzunehmen, die nicht immer einfach umzusetzen sind. So werden Essen und Sport plötzlich zu Herausforderungen. Eine Reportage von Zuzanna Czupalla und Rona Karagök.{{</lead>}}
 
 ![Zucker aus Zucker - Zuzanna Czupalla](miau.jpg)
 
@@ -60,8 +61,6 @@ Ungefähr zehn Minuten nach Beginn der zweiten Halbzeit ist Annas Blutzuckerspie
 Mit einer Krankheit wie Diabetes diagnostiziert zu werden, welche ein Leben lang anhält, kann das Leben einer jungen Person auf den Kopf stellen. Und doch findet sich irgendwann ein Umgang damit, denn auch Joana Müller beobachtet: «Schlussendlich ist alles möglich, aber einfach ein bisschen schwieriger, da man sich besser organisieren und mehr beachten muss.» 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xm9deTXxoMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 Weitere World Diabetes Day 2021 Lernvideos für Kinder und Jugendliche mit Typ 1 Diabetes finden Sie [hier](http://www.kinderklinik.insel.ch/de/unser-angebot/diabetologie/kinderdiabetes-lernvideos).
 
