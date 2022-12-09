@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Zuzanna Czupalla"
-image = ""
+image = "/media/study.jpg"
 email = ""
 +++
