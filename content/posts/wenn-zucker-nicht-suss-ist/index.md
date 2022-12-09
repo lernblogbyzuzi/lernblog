@@ -8,7 +8,7 @@ image = "miau.jpg"
 +++
 <!--StartFragment-->
 
-{{<lead>}}Eine Diabetes Typ 1 Diagnose löst bei vielen Betroffenen Angst und Unsicherheit aus. Ausserdem zwingt die Krankheit sie dazu, in ihrem Alltag einschneidende Veränderungen vorzunehmen, die nicht immer einfach umzusetzen sind. So werden Essen und Sport plötzlich zu Herausforderungen. Eine Reportage von Zuzanna Czupalla und Rona Karagök.{{</lead>}}
+{{<lead>}}Eine Diabetes Typ 1 Diagnose löst bei vielen Betroffenen Angst und Unsicherheit aus. Ausserdem zwingt die Krankheit sie dazu, in ihrem Alltag einschneidende Veränderungen vorzunehmen, die nicht immer einfach umzusetzen sind. So werden Essen und Sport plötzlich zu Herausforderungen. *Eine Reportage von Zuzanna Czupalla und Rona Karagök.*{{</lead>}}
 
 ![Zucker aus Zucker - Zuzanna Czupalla](miau.jpg)
 
